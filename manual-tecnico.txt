@@ -1,0 +1,4 @@
+Las palabras primitivas son aquellas que no provienen de ningún otro término (por ejemplo, agua), 
+y de ellas proceden las palabras derivadas (por ejemplo, acuático). 
+Por otro lado, las palabras compuestas son aquellas que se forman a partir de la unión de dos o más palabras simples (por ejemplo, parabrisas).
+
